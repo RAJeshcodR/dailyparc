@@ -1,5 +1,10 @@
 package pack1;
 
+//      *
+//    * * *
+//  * * * * *
+//* * * * * * *
+
 public class Pattern2 {
 	static int i;
 	public void methd()
